@@ -1,0 +1,5 @@
+name: geomaster-quiz
+version: 1.0.0
+# The specific Reddit features the app needs access to
+capabilities:
+  redditAPI: true
