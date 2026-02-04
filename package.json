@@ -1,5 +1,5 @@
 {
-  "name": "geomaster-quiz",
+  "name": "geomaster",
   "version": "1.0.0",
   "description": "A geography guessing game for Reddit",
   "main": "src/main.tsx",
