@@ -1,0 +1,17 @@
+{
+  "name": "geomaster-quiz",
+  "version": "1.0.0",
+  "description": "A geography guessing game for Reddit",
+  "main": "src/main.tsx",
+  "type": "module",
+  "scripts": {
+    "dev": "devvit playtest",
+    "upload": "devvit upload"
+  },
+  "dependencies": {
+    "@devvit/public-api": "latest"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
