@@ -1,4 +1,4 @@
-# GeoMaster Reddit Quiz
+# GeoMaster
 
 An interactive geography trivia game built for Reddit using Devvit. Players identify mystery countries based on natural language profiles including verified GDP, population, and lifestyle data.
 
